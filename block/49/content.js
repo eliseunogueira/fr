@@ -1,0 +1,15 @@
+var quizLessonBoth = "lesson";var lessonNumber = 49;var numOfAllQuiz = 51;var lessonTitle = "Les pronoms possessifs I (Possessive Pronouns)"
+var btnColor = ["#F30101","#5F0000","#FFC400","#BB0A00"];var quesToRemove = [];
+var startNarration = ["Possessive pronouns are used to replace a possessive adjective and the noun that comes with it.","They're also fairly easy to understand.","What makes it complicated is the enormous amount of variations.","But don't worry, it's a lot easier than it looks! It is mostly a matter of changing the articles in front!"];
+var narration = ["","","","",""];var titleSkip = [false,false,false,true];var forTitles = ["Le mien +","Le tien +","Le sien +"];var engTitles = ["Mine","Yours","His / Hers"];
+var forSideTitles = ["Le mien<br>La mienne<br>Les miens<br>Les miennes","Le tien<br>La tienne<br>Les tiens<br>Les tiennes","Le sien<br>La sienne<br>Les siens<br>Les siennes"];
+var engSideTitles = ["Mine","Yours","His / Hers"];
+var exampleNums = [4,4,4];
+var forExamples = ["Je vois ton père, mais <strong>le mien</strong> n'est pas encore ici.","Ce skateboard est <strong>le mien</strong>.","Cette part de pizza est <strong>la mienne</strong>.","Ces animaux sont <strong>les miens</strong>.","J'adore ma voiture, mais <strong>la tienne</strong> est plus jolie.","Est-ce que cette boîte est <strong>la tienne</strong>?","Est-ce que toutes ces chaussures sont <strong>les tiennes</strong>?","Ce paquet est <strong>le tien</strong>.","Ce saxophone est <strong>le sien</strong>.","Cette télévision est <strong>la sienne</strong>.","Toutes ces sucettes sont <strong>les siennes</strong>.","Est-ce que ces outils sont <strong>les siens</strong>?"];var engExamples = ["I see your father, but <em>mine</em> isn't here yet.","This skateboard is <em>mine</em>.","This pizza slice is <em>mine</em>.","These animals are <em>mine</em>.","I love my car, but <em>yours</em> is prettier.","Is this box <em>yours</em>?","Are all these shoes <em>yours</em>?","This package is <em>yours</em>.","This saxophone is <em>hers</em>.","This television is <em>his</em>.","All these lollipops are <em>his</em>.","Are those tools <em>his</em>?"];var forExtra1 = ["Ta voiture est moins rapide que <strong>la mienne</strong>.","J'ai loué une voiture, car <strong>la mienne</strong> est cassée."];
+
+var engExtra1 = ["Your car is not as fast as <em>mine</em>. <i class='qhint'>(feminine singular)</i>","I rented a car, because <em>mine</em> is broken. <i class='qhint'>(feminine singular)</i>"];
+
+
+
+var imageExtra1 = ["../../block/75/images/pic4.jpg","../../block/5/images/pic9.jpg"];
+var fastExtra1 = ["../../block/75/sounds/sound7","../../block/5/sounds/sound17"];var slowExtra1 = ["../../block/75/sounds/sound8","../../block/5/sounds/sound18"];var forExtra2 = ["On dirait que mon travail n'est pas aussi difficile que <strong>le tien</strong>."];var engExtra2 = ["It seems that my work is not as difficult as <em>yours</em>. <i class='qhint'>(masculine singular)</i>"];var imageExtra2 = ["../../convo/images/convo52B.jpg"];var fastExtra2 = ["../../convo/52/sounds/2fast9"];var slowExtra2 = ["../../convo/52/sounds/2slow9"];

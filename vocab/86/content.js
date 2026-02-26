@@ -1,0 +1,5 @@
+var lessonNumber = 86;var lessonTitle = "Les affaires (Business)";var forExamples = ["*La compagnie","*Les affaires","Le coût","Le client","L'employé","L'événement","L'expert","*L'entrevue","L'emploi","*L'offre","Le propriétaire","Le produit","*L'augmentation","*La règle","Le personnel","*La tâche","*L'équipe","*La valeur"];
+var engExamples = ["Business (company)","Business (affairs)","Cost","Customer","Employee","Event","Expert","Interview","Job","Offer","Owner","Product","Raise","Rule","Staff","Task","Team","Value"];
+var engButtons = engExamples;
+var btnColor = ["#00BFFF","#001E51","#0066FF","#00025B"];var lessonType = "normal";
+var numToRemove = [];var fillQuestions = [];var fillQuestionsEng = [];var fillAnswers = [];var fillAnswersEng = [];var quizFillArray = [];var quizMapArray = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18];var quizMultiArray = [];var quizExamples = ["compagnie","affaires","coût","client","employé","événement","expert","entrevue","emploi","offre","propriétaire","produit","augmentation","règle","personnel","tâche","équipe","valeur"];

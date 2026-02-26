@@ -1,0 +1,13 @@
+var lessonNumber = 123;
+var conjNum = 3;
+var verbTypeNum = 3;
+var narration =  ["The following are the endings for regular RE verbs.","They are the same as the ones you just learned for regular ER verbs!"];
+var replaceText  = ["","entend","perd","attend","répond","vend"];
+var englishVerbs  = ["Infinitive","To hear","To lose","To wait","To answer","To sell"];
+var forConj3 = ["je/j' zzzz<strong>ais</strong>","tu zzzz<strong>ais</strong>","il/elle zzzz<strong>ait</strong>","nous zzzz<strong>ions</strong>","vous zzzz<strong>iez</strong>","ils/elles zzzz<strong>aient</strong>"]; 
+var engConj3Z = ["1st Person Singular","2nd Person Singular (inf.)","3rd Person Singular","1st Person Plural","2nd Person Plural (or formal)","3rd Person Plural"];
+var engConj3A = ["I was hearing","you were hearing (informal)","he/she was hearing","we were hearing","you were hearing (plur./form.)","they were hearing"];
+var engConj3B = ["I was losing","you were losing (informal)","he/she was losing","we were losing","you were losing (plur./form.)","they were losing"];
+var engConj3C = ["I was waiting","you were waiting (informal)","he/she was waiting","we were waiting","you were waiting (plur./form.)","they were waiting"];
+var engConj3D = ["I was answering","you were answering (informal)","he/she was answering","we were answering","you were answering (plur./form.)","they were answering"];
+var engConj3E = ["I was selling","you were selling (informal)","he/she was selling","we were selling","you were selling (plur./form.)","they were selling"];

@@ -1,0 +1,13 @@
+var lessonNumber = 118;
+var conjNum = 1;
+var verbTypeNum = 2;
+var narration =  ["Here are the endings for regular IR verbs..."];
+var replaceText  = ["", "fin","chois","réuss","guér","grand"];
+var englishVerbs  = ["Infinitive", "To finish","To choose","To succeed","To heal","To grow"];
+var forConj1 = ["je/j' zzzz<strong>is</strong>","tu zzzz<strong>is</strong>","il/elle zzzz<strong>it</strong>","nous zzzz<strong>issons</strong>","vous zzzz<strong>issez</strong>","ils/elles zzzz<strong>issent</strong>"];
+var engConj1Z = ["1st Person Singular","2nd Person Singular (inf.)","3rd Person Singular","1st Person Plural","2nd Person Plural (or formal)","3rd Person Plural"];
+var engConj1A = ["I finish","you finish (informal)","he/she finishes","we finish","you finish (plur./form.)","they finish"];
+var engConj1B = ["I choose","you choose (informal)","he/she chooses","we choose","you choose (plur./form.)","they choose"];
+var engConj1C = ["I succeed","you succeed (informal)","he/she succeeds","we succeed","you succeed (plur./form.)","they succeed"];
+var engConj1D = ["I heal","you heal (informal)","he/she heals","we heal","you heal (plur./form.)","they heal"];
+var engConj1E = ["I grow","you grow (informal)","he/she grows","we grow","you grow (plur./form.)","they grow"];

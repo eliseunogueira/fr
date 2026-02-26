@@ -1,0 +1,13 @@
+var lessonNumber = 125;
+var conjNum = 5;
+var verbTypeNum = 3;
+var narration =  ["Here are the endings for regular RE verbs..."];
+var replaceText  = ["","attend","répond","vend","entend","perd"];
+var englishVerbs  = ["Infinitive","To wait","To answer","To sell","To hear","To lose"];
+var forConj5 = ["je/j' zzzz<strong>rais</strong>","tu zzzz<strong>rais</strong>","il/elle zzzz<strong>rait</strong>","nous zzzz<strong>rions</strong>","vous zzzz<strong>riez</strong>","ils/elles zzzz<strong>raient</strong>"];
+var engConj5Z = ["1st Person Singular","2nd Person Singular (inf.)","3rd Person Singular","1st Person Plural","2nd Person Plural (or formal)","3rd Person Plural"];
+var engConj5A = ["I would wait","you would wait (informal)","he/she would wait","we would wait","you would wait (plur./form.)","they would wait"];
+var engConj5B = ["I would answer","you would answer (informal)","he/she would answer","we would answer","you would answer (plur./form.)","they would answer"];
+var engConj5C = ["I would sell","you would sell (informal)","he/she would sell","we would sell","you would sell (plur./form.)","they would sell"];
+var engConj5D = ["I would hear","you would hear (informal)","he/she would hear","we would hear","you would hear (plur./form.)","they would hear"];
+var engConj5E = ["I would lose","you would lose (informal)","he/she would lose","we would lose","you would lose (plur./form.)","they would lose"];
