@@ -385,7 +385,7 @@ var assets = [
   'common/arrow3.svg',
   'common/arrow4.svg',
   'common/back.svg',
-  'common/backboard.png',
+  'common/backBoard.png',
   'common/backboard.svg',
   'extra/cdn/jquery-ui-1.10.4.slider.js',
   'extra/cdn/recorderWorker.js',
